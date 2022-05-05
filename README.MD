@@ -41,7 +41,7 @@
 Building wheel for pyahocorasick (setup.py) ... error
 ```
 
-先去下载  [Microsoft Visual C++ Build Tools](https://link.zhihu.com/?target=http%3A//go.microsoft.com/fwlink/%3FLinkId%3D691126)，
+先去下载  [Microsoft Visual C++ Build Tools](https://go.microsoft.com/fwlink/?LinkId=691126)，
 安装完成后，再重新使用 pip install cpca 安装，即可解决问题
 
 # 中国行政区划分数据获取
